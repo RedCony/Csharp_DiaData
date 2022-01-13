@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 001,
+    "Name": "아마존",
+    "MainWeapon": "쉐도우 보우",
+    "MinAttackPow": 015,
+    "MaxAttackPow": 059,
+    "Strngth": 052,
+    "Agility": 188,
+    "MaxSocket": 005,
+    "RuneWord": "신뢰",
+    "RuneSocket": 004
+  },
+  {
+    "ID": 002,
+    "Name": "소서리스",
+    "MainWeapon": "크리스탈 소드",
+    "MinAttackPow": 005,
+    "MaxAttackPow": 015,
+    "Strngth": 043,
+    "Agility": 0,
+    "MaxSocket": 006,
+    "RuneWord": "소집",
+    "RuneSocket": 005
+  },
+  {
+    "ID": 003,
+    "Name": "드루이드",
+    "MainWeapon": "자이언트 쓰레셔",
+    "MinAttackPow": 040,
+    "MaxAttackPow": 114,
+    "Strngth": 188,
+    "Agility": 140,
+    "MaxSocket": 006,
+    "RuneWord": "죽어가는 자의 숨결",
+    "RuneSocket": 006
+  }
+]
